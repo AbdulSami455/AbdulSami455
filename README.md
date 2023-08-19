@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Sami</h1>
-<h3 align="center">A passionate Cloud/DevOps Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software  Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Solarlis Solar Projects](https://github.com/AbdulSami455/Solarlis-SolarSolutions-at-FingerTips)
 
