@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Sami</h1>
-<h3 align="center">A passionate Software  Engineer from Pakistan</h3>
+<h3 align="center">AWS|DevOps|Golang|Python|Linux</h3>
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
