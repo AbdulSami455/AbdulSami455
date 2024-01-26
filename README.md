@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Sami</h1>
 <h3 align="center">A passionate Software  Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Solarlis Solar Projects](https://github.com/AbdulSami455/Solarlis-SolarSolutions-at-FingerTips)
-
-- 🌱 I’m currently learning **CI/CD,Machine Learning,MicroServices**
-
-- 👯 I’m looking to collaborate on [Open-Synthesis](https://github.com/twschiller/open-synthesis)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AbdulSami455](https://github.com/AbdulSami455)
-
-- 📝 I regularly write articles on [https://medium.com/@as1987137](https://medium.com/@as1987137)
-
-- 💬 Ask me about **AWS,Python,Databases,DSA**
-
-- 📫 How to reach me **as1987137@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
