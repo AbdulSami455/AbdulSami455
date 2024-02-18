@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Sami</h1>
-<h3 align="center">Aspiring MLOPS Engineer--Backend--AWS--DevOps--Golang--Python--Linux </h3>
+<h3 align="center">Aspiring MlOps Engineer--Backend--AWS--DevOps--Golang--Python--Linux </h3>
 
 
 <h3 align="left">Connect with me:</h3>
