@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Sami</h1>
 <h3 align="center">Backend -- AWS -- DevOps -- Golang -- Python -- Linux</h3>
 
-<h3 align="left">Currently Building :</h3>
+<h3 align="left">Currently Building:</h3>
 <ul>
   <li>🛠️ <strong>Intrace:</strong> AI OSINT App for data enrichment and analysis</li>
+</ul>
+
+<h3 align="left">Highlights:</h3>
+<ul>
+  <li>⚙️ Worked on <strong>3+ Full Stack Generative AI Applications</strong></li>
+  <li>🌟 <strong>Top Rated Plus</strong> on <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -18,5 +24,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulsami455" height="30" width="40" />
   </a>
 </p>
-
-
