@@ -3,7 +3,7 @@
 
 <h3 align="left">Currently Building:</h3>
 <ul>
-  <li>🛠️ <strong>Intrace:</strong> AI OSINT App for data enrichment and analysis</li>
+  <li>🛠️ <strong>Intrace:</strong>First AI Agents for OSINT/li>
 </ul>
 
 <h3 align="left">Highlights:</h3>
