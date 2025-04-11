@@ -3,7 +3,7 @@
 
 <h3 align="left">Currently Building:</h3>
 <ul>
-  <li>🛠️ <strong>Intrace:</strong> First AI Agents for OSINT — <a href="https://www.intrace.ai" target="_blank">www.intrace.ai</a></li>
+  <li>🛠️ <strong><a href="https://www.intrace.ai" target="_blank">Intrace</a>:</strong> First AI Agents for OSINT</li>
 </ul>
 
 <h3 align="left">Highlights:</h3>
