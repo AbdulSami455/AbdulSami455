@@ -8,7 +8,7 @@
 
 <h3 align="left">Highlights:</h3>
 <ul>
-  <li>⚙️ Worked on <strong>3+ Full Stack Generative AI Applications</strong></li>
+  <li>⚙️ Worked on <strong>3+ Full Stack Generative AI Products</strong></li>
   <li>🌟 <strong>Top Rated Plus</strong> on <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a></li>
 </ul>
 
