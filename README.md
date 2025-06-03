@@ -4,7 +4,7 @@
 <h3 align="left">Currently Building:</h3>
 <ul>
   <li>🛠️ <strong><a href="https://www.intrace.ai" target="_blank">Intrace</a>:</strong> First AI Agents for OSINT</li>
-    <li>🛠️ <strong><a href="https://github.com/AbdulSami455" target="_blank">HinterBuild</a>:</strong> AI Automations and Solutions</li>
+    <li>🛠️ <strong><a href="https://github.com/AbdulSami455" target="_blank">HinterBuild</a>:</strong> AI Automations and Apps</li>
 </ul>
 
 <h3 align="left">Highlights:</h3>
