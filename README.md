@@ -11,6 +11,8 @@
 <ul>
   <li>⚙️ Worked on <strong>4+ Full Stack Generative AI Products</strong></li>
   <li>🌟 <strong>Top Rated Plus</strong> on <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a></li>
+  <li>🌟 <strong>Founder</strong> on <a href="https://github.com/HinterBuild" target="_blank">Hinterbuild</a></li>
+
 </ul>
 
 <h3 align="left">Connect with me:</h3>
