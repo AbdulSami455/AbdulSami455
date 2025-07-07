@@ -4,12 +4,12 @@
 <h3 align="left">Currently Building:</h3>
 <ul>
   <li><strong><a href="https://www.intrace.ai" target="_blank">Intrace</a>:</strong> First AI Agents for OSINT</li>
-  <li><strong><a href="https://www.igniticai.com/" target="_blank">IgniticAI</a>:</strong> SuperAgents for ecommerce</li>
+  <li><strong><a href="https://www.igniticai.com/" target="_blank">IgniticAI</a>:</strong> SuperAgents for Ecommerce</li>
 </ul>
 
 <h3 align="left">Highlights:</h3>
 <ul>
-  <li>⚙️ Worked on <strong>3+ Full Stack Generative AI Products</strong></li>
+  <li>⚙️ Worked on <strong>4+ Full Stack Generative AI Products</strong></li>
   <li>🌟 <strong>Top Rated Plus</strong> on <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a></li>
 </ul>
 
