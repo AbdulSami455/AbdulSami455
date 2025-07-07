@@ -4,8 +4,7 @@
 <h3 align="left">Currently Building:</h3>
 <ul>
   <li><strong><a href="https://www.intrace.ai" target="_blank">Intrace</a>:</strong> First AI Agents for OSINT</li>
-    <li><strong><a href="https://github.com/HinterBuild" target="_blank">HinterBuild</a>:</strong>Backend,deployment and automation solutions </li>
-  <li><strong><a href="https://www.igniticai.com/" target="_blank">IgniticAI</a>:</strong>SuperAgents for ecommerce</li>
+  <li><strong><a href="https://www.igniticai.com/" target="_blank">IgniticAI</a>:</strong> SuperAgents for ecommerce</li>
 </ul>
 
 <h3 align="left">Highlights:</h3>
