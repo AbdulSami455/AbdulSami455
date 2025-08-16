@@ -33,7 +33,7 @@
     <td>
       <img src="https://img.shields.io/github/stars/AbdulSami455/Telegram-Search-osint-cli-tool?style=social" />
       <img src="https://img.shields.io/github/last-commit/AbdulSami455/Telegram-Search-osint-cli-tool" />
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/OSINT-8A2BE2" />
     </td>
   </tr>
