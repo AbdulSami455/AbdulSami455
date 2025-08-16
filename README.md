@@ -59,6 +59,20 @@
       <img src="https://img.shields.io/badge/Ollama-444444" />
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/AbdulSami455/Spavkaru-Person-Scraper">🕵️‍♂️ Spavkaru Person Scraper</a></td>
+    <td>FastAPI + React app for searching person details across 6 East European & Asian countries</td>
+    <td>
+      <img src="https://img.shields.io/github/stars/AbdulSami455/Spavkaru-Person-Scraper?style=social" />
+      <img src="https://img.shields.io/github/last-commit/AbdulSami455/Spavkaru-Person-Scraper" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 </table>
 
 
