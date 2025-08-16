@@ -14,41 +14,52 @@
   <li>🌟 <strong>Founder</strong> -> <a href="https://github.com/HinterBuild" target="_blank">Hinterbuild</a></li>
 </ul>
 
-<h3 align="left">🚀 Open Source Projects:</h3>
+<h3 align="left">🚀 Open Source Projects</h3>
 
-> ## 📈 [Pakistan Stock Exchange API](https://github.com/AbdulSami455/PSX-Data-Api)  
-> Very basic Pakistan Stock Exchange API  
-> ![Stars](https://img.shields.io/github/stars/AbdulSami455/PSX-Data-Api?style=social)  
-> ![Forks](https://img.shields.io/github/forks/AbdulSami455/PSX-Data-Api?style=social)  
-> ![Last Commit](https://img.shields.io/github/last-commit/AbdulSami455/PSX-Data-Api)  
-> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![REST](https://img.shields.io/badge/REST-00ADD8)
-
----
-
-> ## 🔍 [Telegram Search CLI Tool](https://github.com/AbdulSami455/Telegram-Search-osint-cli-tool)  
-> OSINT tool for searching on Telegram  
-> ![Stars](https://img.shields.io/github/stars/AbdulSami455/Telegram-Search-osint-cli-tool?style=social)  
-> ![Forks](https://img.shields.io/github/forks/AbdulSami455/Telegram-Search-osint-cli-tool?style=social)  
-> ![Last Commit](https://img.shields.io/github/last-commit/AbdulSami455/Telegram-Search-osint-cli-tool)  
-> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![OSINT](https://img.shields.io/badge/OSINT-8A2BE2)
-
----
-
-> ## 🕵️ [Dark Web Crawler & OSINT Analysis](https://github.com/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis)  
-> Crawler specialized in getting data from dark web and analyzing with LLM  
-> ![Stars](https://img.shields.io/github/stars/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis?style=social)  
-> ![Forks](https://img.shields.io/github/forks/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis?style=social)  
-> ![Last Commit](https://img.shields.io/github/last-commit/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis)  
-> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scraping](https://img.shields.io/badge/Scraping-2E7D32) ![LLM](https://img.shields.io/badge/LLM-CC0000)
-
----
-
-> ## 🤖 [Private Multimodal Chatbot](https://github.com/AbdulSami455/Knowledge-base-chatbot-langchain-ollama)  
-> Private chatbot for internal use cases  
-> ![Stars](https://img.shields.io/github/stars/AbdulSami455/Knowledge-base-chatbot-langchain-ollama?style=social)  
-> ![Forks](https://img.shields.io/github/forks/AbdulSami455/Knowledge-base-chatbot-langchain-ollama?style=social)  
-> ![Last Commit](https://img.shields.io/github/last-commit/AbdulSami455/Knowledge-base-chatbot-langchain-ollama)  
-> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-00B8D9) ![Ollama](https://img.shields.io/badge/Ollama-444444)
+<table>
+  <tr>
+    <td><a href="https://github.com/AbdulSami455/PSX-Data-Api">📈 Pakistan Stock Exchange API</a></td>
+    <td>Very basic PSX API</td>
+    <td>
+      <img src="https://img.shields.io/github/stars/AbdulSami455/PSX-Data-Api?style=social" />
+      <img src="https://img.shields.io/github/last-commit/AbdulSami455/PSX-Data-Api" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST-00ADD8" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AbdulSami455/Telegram-Search-osint-cli-tool">🔍 Telegram Search CLI</a></td>
+    <td>OSINT search on Telegram</td>
+    <td>
+      <img src="https://img.shields.io/github/stars/AbdulSami455/Telegram-Search-osint-cli-tool?style=social" />
+      <img src="https://img.shields.io/github/last-commit/AbdulSami455/Telegram-Search-osint-cli-tool" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OSINT-8A2BE2" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis">🕵️ Dark Web Crawler</a></td>
+    <td>Crawl + LLM for dark web</td>
+    <td>
+      <img src="https://img.shields.io/github/stars/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis?style=social" />
+      <img src="https://img.shields.io/github/last-commit/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scraping-2E7D32" />
+      <img src="https://img.shields.io/badge/LLM-CC0000" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AbdulSami455/Knowledge-base-chatbot-langchain-ollama">🤖 Multimodal Chatbot</a></td>
+    <td>Private chatbot for internal use</td>
+    <td>
+      <img src="https://img.shields.io/github/stars/AbdulSami455/Knowledge-base-chatbot-langchain-ollama?style=social" />
+      <img src="https://img.shields.io/github/last-commit/AbdulSami455/Knowledge-base-chatbot-langchain-ollama" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-00B8D9" />
+      <img src="https://img.shields.io/badge/Ollama-444444" />
+    </td>
+  </tr>
+</table>
 
 
 
