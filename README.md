@@ -12,7 +12,14 @@
   <li>⚙️ Worked on <strong>4+ Full Stack Generative AI Products</strong></li>
   <li>🌟 <strong>Top Rated Plus</strong> on <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a></li>
   <li>🌟 <strong>Founder</strong> -> <a href="https://github.com/HinterBuild" target="_blank">Hinterbuild</a></li>
+</ul>
 
+<h3 align="left">Open Source Projects:</h3>
+<ul>
+  <li> <strong><a href="https://github.com/AbdulSami455/PSX-Data-Api" target="_blank">Pakistan Stock Exchange Api </a></strong> —Very basic Pakistan Stock Exchange API</li>
+  <li>⚡<strong><a href="https://github.com/AbdulSami455/Telegram-Search-osint-cli-tool" target="_blank">Telegram Search Cli tool</a></strong> Osint Tool for Searching on Telegram</li>
+  <li> <strong><a href="https://github.com/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis" target="_blank">Dark Web Crawler and Osint Analysis</a></strong> Crawler Specialize in getting data from Darkweb and Analayze using LLM</li>
+  <li> <strong><a href="https://github.com/AbdulSami455/Knowledge-base-chatbot-langchain-ollama" target="_blank">Private Multimodal Chatbot</a></strong> —Private Chatbot for internal Use Cases</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
