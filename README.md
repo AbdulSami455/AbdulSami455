@@ -22,7 +22,6 @@
     <td>Very basic PSX API</td>
     <td>
       <img src="https://img.shields.io/github/stars/AbdulSami455/PSX-Data-Api?style=social" />
-      <img src="https://img.shields.io/github/last-commit/AbdulSami455/PSX-Data-Api" />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/REST-00ADD8" />
     </td>
@@ -32,7 +31,6 @@
     <td>OSINT search on Telegram</td>
     <td>
       <img src="https://img.shields.io/github/stars/AbdulSami455/Telegram-Search-osint-cli-tool?style=social" />
-      <img src="https://img.shields.io/github/last-commit/AbdulSami455/Telegram-Search-osint-cli-tool" />
       <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/OSINT-8A2BE2" />
     </td>
@@ -42,7 +40,6 @@
     <td>Crawl + LLM for dark web</td>
     <td>
       <img src="https://img.shields.io/github/stars/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis?style=social" />
-      <img src="https://img.shields.io/github/last-commit/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis" />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Scraping-2E7D32" />
       <img src="https://img.shields.io/badge/LLM-CC0000" />
@@ -53,7 +50,6 @@
     <td>Private chatbot for internal use</td>
     <td>
       <img src="https://img.shields.io/github/stars/AbdulSami455/Knowledge-base-chatbot-langchain-ollama?style=social" />
-      <img src="https://img.shields.io/github/last-commit/AbdulSami455/Knowledge-base-chatbot-langchain-ollama" />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-00B8D9" />
       <img src="https://img.shields.io/badge/Ollama-444444" />
@@ -64,7 +60,6 @@
     <td>FastAPI + React app for searching person details across 6 East European & Asian countries</td>
     <td>
       <img src="https://img.shields.io/github/stars/AbdulSami455/Spavkaru-Person-Scraper?style=social" />
-      <img src="https://img.shields.io/github/last-commit/AbdulSami455/Spavkaru-Person-Scraper" />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
