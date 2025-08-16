@@ -19,21 +19,21 @@
 <table>
   <tr>
     <td>
-      <h4><a href="https://github.com/AbdulSami455/PSX-Data-Api" target="_blank">📈 Pakistan Stock Exchange API</a></h4>
+      <h4><a href="https://github.com/AbdulSami455/PSX-Data-Api" target="_blank"> Pakistan Stock Exchange API</a></h4>
       <p>Very basic Pakistan Stock Exchange API.</p>
     </td>
     <td>
-      <h4><a href="https://github.com/AbdulSami455/Telegram-Search-osint-cli-tool" target="_blank">🔍 Telegram Search CLI Tool</a></h4>
+      <h4><a href="https://github.com/AbdulSami455/Telegram-Search-osint-cli-tool" target="_blank"> Telegram Search CLI Tool</a></h4>
       <p>OSINT tool for searching on Telegram.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h4><a href="https://github.com/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis" target="_blank">🕵️ Dark Web Crawler & OSINT Analysis</a></h4>
+      <h4><a href="https://github.com/AbdulSami455/Darkweb-Crawler-Deepseek-Osint-Analysis" target="_blank">Dark Web Crawler & OSINT Analysis</a></h4>
       <p>Crawler specialized in getting data from Darkweb and analyzing with LLM.</p>
     </td>
     <td>
-      <h4><a href="https://github.com/AbdulSami455/Knowledge-base-chatbot-langchain-ollama" target="_blank">🤖 Private Multimodal Chatbot</a></h4>
+      <h4><a href="https://github.com/AbdulSami455/Knowledge-base-chatbot-langchain-ollama" target="_blank">Private Multimodal Chatbot</a></h4>
       <p>Private chatbot for internal use cases.</p>
     </td>
   </tr>
