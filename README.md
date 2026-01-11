@@ -5,6 +5,7 @@
 <ul>
   <li><strong><a href="https://www.intrace.ai" target="_blank">Intrace</a>:</strong> First AI Agents for OSINT</li>
   <li><strong><a href="https://www.igniticai.com/" target="_blank">IgniticAI</a>:</strong> SuperAgents for Ecommerce</li>
+  <li><strong><a href="https://www.luminaai.hinterbuild.com/" target="_blank">LuminaAI</a>:</strong> AI Product Shoots and listings</li>
 </ul>
 
 <h3 align="left">Highlights:</h3>
