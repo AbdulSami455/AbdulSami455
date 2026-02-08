@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Abdul Sami</h1>
 <h3 align="center">
-Backend Engineer • Distributed Systems • Cloud & DevOps • AI Infrastructure
+Backend Engineer • Distributed Systems • Cloud & DevOps • AI Engineering
 </h3>
 
 <p align="center">
@@ -13,25 +13,13 @@ reliability, and clean system design.
 ### 🚀 Currently Building
 
 **Intrace** – AI-powered OSINT platform  
-Distributed data ingestion, async workers, graph + relational storage.  
 
 **IgniticAI** – AI agents for ecommerce  
-Event-driven workflows for scraping, enrichment, and AI inference.  
 
 **LuminaAI** – AI product photography  
-API-first backend with credit-based usage and optimized AI pipelines.  
 
 ---
 
-### 🧱 Engineering Focus
-
-- Backend architecture & API design  
-- Async systems, queues, and background workers  
-- Data modeling (Postgres, Neo4j)  
-- Cloud infrastructure (AWS)  
-- Failure handling, retries, and observability  
-
----
 
 ### 🏆 Highlights
 
