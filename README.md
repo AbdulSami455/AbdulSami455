@@ -8,38 +8,54 @@ I build and operate backend systems for AI products — focused on scale,
 reliability, and clean system design.
 </p>
 
----
+<hr />
 
-### 🚀 Currently Building
+<h3 align="left">🚀 Currently Building</h3>
+<ul>
+  <li>
+    <strong>
+      <a href="https://www.intrace.ai" target="_blank">Intrace</a>
+    </strong>
+    – AI-powered OSINT platform
+  </li>
+  <li>
+    <strong>
+      <a href="https://www.igniticai.com/" target="_blank">IgniticAI</a>
+    </strong>
+    – AI agents for ecommerce
+  </li>
+  <li>
+    <strong>
+      <a href="https://luminaai.hinterbuild.com/" target="_blank">LuminaAI</a>
+    </strong>
+    – AI product photography
+  </li>
+</ul>
 
-**Intrace** – AI-powered OSINT platform  
+<hr />
 
-**IgniticAI** – AI agents for ecommerce  
+<h3 align="left">🏆 Highlights</h3>
+<ul>
+  <li>Shipped multiple production AI systems</li>
+  <li>Founder @ <a href="https://github.com/HinterBuild" target="_blank">HinterBuild</a></li>
+  <li>
+    <strong>Top Rated Plus</strong> on
+    <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a>
+  </li>
+  <li>Own systems end-to-end: design → deploy → operate</li>
+</ul>
 
-**LuminaAI** – AI product photography  
+<hr />
 
----
-
-
-### 🏆 Highlights
-
-- Shipped multiple production AI systems  
-- Founder @ **HinterBuild**  
-- **Top Rated Plus** on Upwork  
-- Own systems end-to-end: design → deploy → operate  
-
----
-
-### 🔗 Connect
-
-<p align="left">
-  <a href="https://twitter.com/abdulsami1211" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@as1987137" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/abdulsami455/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
+<h3 align="left">🔗 Connect</h3>
+<ul>
+  <li>
+    <a href="https://twitter.com/abdulsami1211" target="_blank">Twitter</a>
+  </li>
+  <li>
+    <a href="https://medium.com/@as1987137" target="_blank">Medium</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/abdulsami455/" target="_blank">LeetCode</a>
+  </li>
+</ul>
