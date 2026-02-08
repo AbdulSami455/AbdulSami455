@@ -55,7 +55,4 @@ reliability, and clean system design.
   <li>
     <a href="https://medium.com/@as1987137" target="_blank">Medium</a>
   </li>
-  <li>
-    <a href="https://leetcode.com/abdulsami455/" target="_blank">LeetCode</a>
-  </li>
 </ul>
