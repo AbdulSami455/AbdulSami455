@@ -30,6 +30,12 @@ reliability, and clean system design.
     </strong>
     – AI product photography
   </li>
+  <li>
+    <strong>
+      <a href="https://github.com/AbdulSami455/Nust-devs" target="_blank">Nust Devs</a>
+    </strong>
+    – NUST Developer Index
+  </li>
 </ul>
 
 <hr />
