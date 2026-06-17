@@ -42,12 +42,12 @@ reliability, and clean system design.
 
 <h3 align="left">🏆 Highlights</h3>
 <ul>
-  <li>Shipped multiple production AI systems</li>
-  <li>Founder @ <a href="https://github.com/HinterBuild" target="_blank">HinterBuild</a></li>
   <li>
     <strong>Top Rated Plus</strong> on
     <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a>
   </li>
+  <li>Shipped multiple production AI systems</li>
+  <li>Founder @ <a href="https://github.com/HinterBuild" target="_blank">HinterBuild</a></li>
   <li>Own systems end-to-end: design → deploy → operate</li>
 </ul>
 
