@@ -47,7 +47,7 @@ reliability, and clean system design.
     <td width="50%">
       <strong>Top Rated Plus</strong>
       <br />
-      <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork freelancer profile</a>
+      <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a>
     </td>
     <td width="50%">
       <strong>Founder</strong>
@@ -57,14 +57,14 @@ reliability, and clean system design.
   </tr>
   <tr>
     <td width="50%">
-      <strong>Shipped Apigen</strong>
+      <strong>Shipped AI-powered API generation platform</strong>
       <br />
-      <a href="https://www.producthunt.com/products/apigen" target="_blank">AI-powered API generation platform</a>
+      <a href="https://www.producthunt.com/products/apigen" target="_blank">APIGEN/a>
     </td>
     <td width="50%">
-      <strong>50+ Products Delivered</strong>
+      <strong>50+ Products Delivered for 20+ Clients</strong>
       <br />
-      <a href="https://www.linkedin.com/in/abdul-sami-a48b78234/details/projects/" target="_blank">Built and deployed for 20+ clients</a>
+      <a href="https://www.linkedin.com/in/abdul-sami-a48b78234/details/projects/" target="_blank">Projects</a>
     </td>
   </tr>
 </table>
