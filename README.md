@@ -59,7 +59,7 @@ reliability, and clean system design.
     <td width="50%">
       <strong>Shipped AI-powered API generation platform</strong>
       <br />
-      <a href="https://www.producthunt.com/products/apigen" target="_blank">APIGEN/a>
+      <a href="https://www.producthunt.com/products/apigen" target="_blank">APIGEN</a>
     </td>
     <td width="50%">
       <strong>50+ Products Delivered for 20+ Clients</strong>
