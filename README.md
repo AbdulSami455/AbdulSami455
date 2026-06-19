@@ -48,13 +48,13 @@ reliability, and clean system design.
       <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a>
     </td>
     <td width="50%">
-      Shipped multiple production AI systems
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       Founder @
       <a href="https://hinterbuild.com/" target="_blank">HinterBuild</a>
+   
+  </tr>
+  <tr>
+     <td width="50%">
+      Shipped multiple production AI systems
     </td>
     <td width="50%">
       Own systems end-to-end: design → deploy → operate
