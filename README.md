@@ -54,8 +54,10 @@ reliability, and clean system design.
   </tr>
   <tr>
      <td width="50%">
-      Shipped multiple production AI systems
-    </td>
+  Shipped <a href="https://www.producthunt.com/products/apigen" target="_blank">Apigen</a>
+  <br />
+  AI-powered API generation platform
+</td>
     <td width="50%">
       Own systems end-to-end: design → deploy → operate
     </td>
