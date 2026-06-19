@@ -41,30 +41,36 @@ reliability, and clean system design.
 <hr />
 
 <h3 align="left">🏆 Highlights</h3>
+
 <table>
   <tr>
     <td width="50%">
-      <strong>Top Rated Plus</strong> on
-      <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork</a>
+      <strong>Top Rated Plus</strong>
+      <br />
+      <a href="https://www.upwork.com/freelancers/muhammadabduls" target="_blank">Upwork freelancer profile</a>
     </td>
     <td width="50%">
-      Founder @
+      <strong>Founder</strong>
+      <br />
       <a href="https://hinterbuild.com/" target="_blank">HinterBuild</a>
-   
+    </td>
   </tr>
   <tr>
-     <td width="50%">
-  Shipped <a href="https://www.producthunt.com/products/apigen" target="_blank">Apigen</a>
-  <br />
-  AI-powered API generation platform
-</td>
     <td width="50%">
-      Own systems end-to-end: design → deploy → operate
+      <strong>Shipped Apigen</strong>
+      <br />
+      <a href="https://www.producthunt.com/products/apigen" target="_blank">AI-powered API generation platform</a>
+    </td>
+    <td width="50%">
+      <strong>50+ Products Delivered</strong>
+      <br />
+      <a href="https://www.linkedin.com/in/abdul-sami-a48b78234/details/projects/" target="_blank">Built and deployed for 20+ clients</a>
     </td>
   </tr>
 </table>
 
 <hr />
+
 
 <h3 align="left">🔗 Connect</h3>
 <ul>
