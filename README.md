@@ -16,7 +16,7 @@ reliability, and clean system design.
     <strong>
       <a href="https://www.intrace.ai" target="_blank">Intrace</a>
     </strong>
-    – AI-powered OSINT platform (Silicon Based Startup)
+    – AI-powered OSINT platform (Silicon Valley Based Startup)
   </li>
   <li>
     <strong>
