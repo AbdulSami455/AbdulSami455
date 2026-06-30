@@ -36,6 +36,12 @@ reliability, and clean system design.
     </strong>
     – NUST Developer Index
   </li>
+  <li>
+    <strong>
+      <a href="https://github.com/AbdulSami455/pakistan-agent-skills" target="_blank">PK Agent Skills</a>
+    </strong>
+    – AI agent skills for Pakistan-focused data.
+  </li>
 </ul>
 
 <hr />
