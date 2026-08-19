@@ -20,7 +20,7 @@ reliability, and clean system design.
   </li>
   <li>
     <strong>
-      <a href="https://www.igniticai.com/" target="_blank">IgniticAI</a>
+      <a href="https://igniticai.hinterbuild.com" target="_blank">IgniticAI</a>
     </strong>
     – AI agents for ecommerce
   </li>
