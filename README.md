@@ -25,6 +25,12 @@ reliability, and clean system design.
     – AI agents for ecommerce
   </li>
   <li>
+  <strong>
+    <a href="https://hinterbuild.com/products/ocherfort" target="_blank">Ocherfort</a>
+  </strong>
+  – Local-first repository security CLI 
+</li>
+  <li>
     <strong>
       <a href="https://luminaai.hinterbuild.com/" target="_blank">LuminaAI</a>
     </strong>
