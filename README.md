@@ -16,7 +16,7 @@ reliability, and clean system design.
 <td width="50%">
 
 **[Intrace](https://www.intrace.ai)** — AI OSINT Platform  
-`150+ sources` `Go + Python`  
+`150+ connectors` `Go + Python`  
 AI-powered intelligence platform at a Silicon Valley startup.
 
 </td>
