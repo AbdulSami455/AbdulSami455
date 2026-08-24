@@ -38,10 +38,9 @@ Local-first repo security agent orchestrating Gitleaks, Trivy, Semgrep.
 </td>
 <td width="50%">
 
-**[Cadensend](https://hinterbuild.com/products/)** — AI Courses  
+**[NustDevs](https://github.com/AbdulSami455/Nust-devs)** — Platform and leaderboard 
 `Go + LangGraph` `RAG` `Qdrant`  
-Grounded AI email courses with cited sources and idempotent delivery.
-
+ NUST Developer Index
 </td>
 </tr>
 <tr>
