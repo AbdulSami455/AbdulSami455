@@ -38,7 +38,7 @@ Local-first repo security agent orchestrating Gitleaks, Trivy, Semgrep.
 </td>
 <td width="50%">
 
-**[Cadensend](https://github.com/HinterBuild/cadensend)** — AI Courses  
+**[Cadensend](https://hinterbuild.com/products/)** — AI Courses  
 `Go + LangGraph` `RAG` `Qdrant`  
 Grounded AI email courses with cited sources and idempotent delivery.
 
