@@ -16,7 +16,7 @@ reliability, and clean system design.
 <td width="50%">
 
 **[Intrace](https://www.intrace.ai)** — AI OSINT Platform  
-`10M+ records/month` `150+ sources` `Go + Python`  
+`150+ sources` `Go + Python`  
 AI-powered intelligence platform at a Silicon Valley startup.
 
 </td>
@@ -48,7 +48,7 @@ Grounded AI email courses with cited sources and idempotent delivery.
 <td width="50%">
 
 **[LuminaAI](https://luminaai.hinterbuild.com)** — AI Photography  
-`151 users` `45M tokens` `FastAPI`  
+ `FastAPI`  
 AI product photography platform with 6 generation modules.
 
 </td>
