@@ -38,9 +38,8 @@ Local-first repo security agent orchestrating Gitleaks, Trivy, Semgrep.
 </td>
 <td width="50%">
 
-**[NustDevs](https://github.com/AbdulSami455/Nust-devs)** — Platform and leaderboard 
-
-`Go + LangGraph` `RAG` `Qdrant`  
+**[NustDevs](https://github.com/AbdulSami455/Nust-devs)** — Platform and leaderboard       
+  `Go + LangGraph` `RAG` `Qdrant`  
  NUST Developer Index
  
 </td>
