@@ -9,49 +9,58 @@ reliability, and clean system design.
 </p>
 
 <hr />
+<h3>🚀 Currently Building</h3>
 
-<h3 align="left">🚀 Currently Building</h3>
-<ul>
-  <li>
-    <strong>
-      <a href="https://www.intrace.ai" target="_blank">Intrace</a>
-    </strong>
-    – AI-powered OSINT platform (Silicon Valley Based Startup)
-  </li>
-  <li>
-    <strong>
-      <a href="https://igniticai.hinterbuild.com" target="_blank">IgniticAI</a>
-    </strong>
-    – AI agents for ecommerce
-  </li>
-  <li>
-  <strong>
-    <a href="https://hinterbuild.com/products/ocherfort" target="_blank">Ocherfort</a>
-  </strong>
-  – Local-first repository security CLI 
-</li>
-  <li>
-    <strong>
-      <a href="https://luminaai.hinterbuild.com/" target="_blank">LuminaAI</a>
-    </strong>
-    – AI product photography
-  </li>
-  <li>
-    <strong>
-      <a href="https://github.com/AbdulSami455/Nust-devs" target="_blank">Nust Devs</a>
-    </strong>
-    – NUST Developer Index
-  </li>
-  <li>
-    <strong>
-      <a href="https://github.com/AbdulSami455/pakistan-agent-skills" target="_blank">PK agent skills</a>
-    </strong>
-    – AI agent skills for Pakistan-focused data.
-  </li>
-</ul>
+<table>
+<tr>
+<td width="50%">
 
-<hr />
+**[Intrace](https://www.intrace.ai)** — AI OSINT Platform  
+`10M+ records/month` `150+ sources` `Go + Python`  
+AI-powered intelligence platform at a Silicon Valley startup.
 
+</td>
+<td width="50%">
+
+**[Ignitic AI](https://igniticai.hinterbuild.com)** — Agent Platform  
+`15 MCP servers` `150+ tools` `LangGraph`  
+Multi-agent e-commerce automation with persistent memory.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Ocherfort](https://hinterbuild.com/products/ocherfort)** — Security CLI  
+`Pure Go` `OWASP/NIST/CWE` `6 scanners`  
+Local-first repo security agent orchestrating Gitleaks, Trivy, Semgrep.
+
+</td>
+<td width="50%">
+
+**[Cadensend](https://github.com/HinterBuild/cadensend)** — AI Courses  
+`Go + LangGraph` `RAG` `Qdrant`  
+Grounded AI email courses with cited sources and idempotent delivery.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[LuminaAI](https://luminaai.hinterbuild.com)** — AI Photography  
+`151 users` `45M tokens` `FastAPI`  
+AI product photography platform with 6 generation modules.
+
+</td>
+<td width="50%">
+
+**[PK Agent Skills](https://github.com/AbdulSami455/pakistan-agent-skills)** — Open Source  
+`Claude` `OpenAI` `Hermes` `OpenClaw`  
+Model-agnostic agent skill library for Pakistan-specific data.
+
+</td>
+</tr>
+</table>
 <h3 align="left">🏆 Highlights</h3>
 
 <table>
