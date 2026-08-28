@@ -9,7 +9,7 @@ reliability, and clean system design.
 </p>
 
 <hr />
-<h3>🚀 Currently Building</h3>
+<h3>🚀 Projects</h3>
 
 <table>
 <tr>
