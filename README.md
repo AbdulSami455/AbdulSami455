@@ -8,7 +8,7 @@ Go | Python |  TypeScript |  FastAPI | Kubernetes | Terraform | AWS |  LangGraph
 ## Start Here
 🔍 [Intrace](https://www.intrace.ai) — AI OSINT platform, 10M+ records/month, 150+ sources, Kubernetes in production
 
-🤖 [Ignitic AI](https://igniticai.hinterbuild.com) — 15 MCP servers, 150+ tools, LangGraph multi-agent orchestration
+🤖 [Ignitic AI](https://igniticai.hinterbuild.com) — Ecommerce Automation | 15 MCP servers, 150+ tools, LangGraph multi-agent orchestration
 
 🔒 [Ocherfort](https://hinterbuild.com/products/ocherfort) — Go security CLI, 6 scanners, OWASP/NIST/CWE
 
