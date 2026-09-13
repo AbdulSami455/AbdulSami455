@@ -24,7 +24,7 @@ Go | Python |  TypeScript |  FastAPI | Kubernetes | Terraform | AWS |  LangGraph
 
 
 ## Highlights
-🏆 Top Rated Plus on [Upwork](https://www.upwork.com/freelancers/muhammadabduls) — 50+ projects, 40+ clients, 12 countries
+🏆 Top Rated Plus on [Upwork](https://www.upwork.com/freelancers/muhammadabduls) , Level 2 on Fiverr — 50+ projects, 40+ clients, 12 countries
 
 🚀 Founder @ [HinterBuild](https://hinterbuild.com)
 
