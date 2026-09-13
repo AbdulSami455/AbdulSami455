@@ -2,7 +2,7 @@ Hi, I'm Abdul Sami 👋
 📍 Islamabad, Pakistan | 🤖 Backend + AI + DevOps Engineer | 🚀 Founder @ HinterBuild
 
 
-Go | Python |  TypeScript|  FastAPI | Kubernetes | Terraform | AWS|  LangGraph | MCP | n8n
+Go | Python |  TypeScript |  FastAPI | Kubernetes | Terraform | AWS |  LangGraph | MCP | n8n
 
 
 ## Start Here
@@ -25,8 +25,11 @@ Go | Python |  TypeScript|  FastAPI | Kubernetes | Terraform | AWS|  LangGraph |
 
 ## Highlights
 🏆 Top Rated Plus on [Upwork](https://www.upwork.com/freelancers/muhammadabduls) — 50+ projects, 40+ clients, 12 countries
+
 🚀 Founder @ [HinterBuild](https://hinterbuild.com)
+
 📦 Shipped [APIGen](https://www.producthunt.com/products/apigen) — AI-powered API generation platform
+
 🌍 Built and operated backend + infra for startups across US, Spain, EU
 
 ## Connect
