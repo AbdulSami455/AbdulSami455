@@ -1,7 +1,9 @@
 Hi, I'm Abdul 👋
 📍 Islamabad, Pakistan | 🤖 Backend + AI + DevOps Engineer | 🚀 Founder @ HinterBuild
 
-Go Python TypeScript FastAPI Kubernetes Docker Terraform AWS LangGraph MCP n8n
+
+Go | Python |  TypeScript|  FastAPI | Kubernetes | Terraform | AWS|  LangGraph | MCP | n8n
+
 
 ## Start Here
 🔍 [Intrace](https://www.intrace.ai) — AI OSINT platform, 10M+ records/month, 150+ sources, Kubernetes in production
