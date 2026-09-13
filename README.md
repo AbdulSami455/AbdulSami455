@@ -1,4 +1,4 @@
-Hi, I'm Abdul 👋
+Hi, I'm Abdul Sami 👋
 📍 Islamabad, Pakistan | 🤖 Backend + AI + DevOps Engineer | 🚀 Founder @ HinterBuild
 
 
