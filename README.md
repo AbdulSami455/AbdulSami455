@@ -1,5 +1,5 @@
 Hi, I'm Abdul Sami 👋
-# 📍 Islamabad, Pakistan · Backend + AI + DevOps · Founder @ HinterBuild
+#  Backend + AI + DevOps · Founder @ HinterBuild
 
 Go | Python |  TypeScript |  FastAPI | Kubernetes | Terraform | AWS |  LangGraph | MCP | n8n | Serverless 
 
