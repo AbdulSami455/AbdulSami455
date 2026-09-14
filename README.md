@@ -1,5 +1,5 @@
 Hi, I'm Abdul Sami 👋
-#  Backend + AI + DevOps · Founder @ HinterBuild
+#  Backend + AI + DevOps 
 
 Go | Python |  TypeScript |  FastAPI | Kubernetes | Terraform | AWS |  LangGraph | MCP | n8n | Serverless 
 
