@@ -10,7 +10,7 @@ Hi, I'm Abdul Sami 👋
 
 🔒 [Ocherfort](https://hinterbuild.com/products/ocherfort) — Go security CLI, 6 scanners, OWASP/NIST/CWE
 
-📧 [Cadensend](https://cadensend.hinterbuild.com) — AI email platform, RAG + Qdrant
+📧 [Cadensend](https://github.com/HinterBuild/cadensend) — AI email platform, RAG + Qdrant
 
 📈 [PSX API](https://github.com/AbdulSami455/psx-api) — #1 in 1.5M searches, Pakistan Stock Exchange API
 
