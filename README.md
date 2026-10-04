@@ -28,7 +28,7 @@ Hi, I'm Abdul Sami 👋
 
 📦 Shipped [APIGen](https://www.producthunt.com/products/apigen) — AI-powered API generation platform
 
-🌍 Built and operated backend + infra for startups across US, Spain, EU
+🌍 Built and operated backend + infra for startups across US, EU and pakistan.
 
 ## Connect
 [Twitter](https://twitter.com/abdulsami1211) • [Medium](https://medium.com/@as1987137) • [LinkedIn](https://linkedin.com/in/abdul-sami-a48b78234)
