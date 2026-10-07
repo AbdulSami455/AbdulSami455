@@ -3,7 +3,6 @@
 # Abdul Sami
 
 **Backend · AI Agents · OSINT Systems · DevOps** — production AI, not demos  
-Founder [@HinterBuild](https://hinterbuild.com) · NUST SE 2026 · Open to remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-sami-a48b78234)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/abdulsami1211)
