@@ -60,6 +60,6 @@ Founder [@HinterBuild](https://hinterbuild.com) · NUST SE 2026 · Open to remot
 
 <div align="center">
 
-🏆 **Top Rated Plus** · 50+ projects · 40+ clients · 12 countries  🐱 Launching [Crewqo on Product Hunt](https://www.producthunt.com/products/crewqo)
+ 50+ projects · 40+ clients · 12 countries  🐱 Launching [Crewqo on Product Hunt](https://www.producthunt.com/products/crewqo)
 
 </div>
