@@ -20,6 +20,7 @@ Hi, I'm Abdul Sami 👋
  
 [NustDevs](https://github.com/AbdulSami455/Nust-devs) — NUST developer index, Go + LangGraph + Qdrant
 
+[Crewqo](https://crewqo.com/) — Team OS for Agencies.
 
 ## Highlights
 🏆 Top Rated Plus on [Upwork](https://www.upwork.com/freelancers/muhammadabduls) , Level 2 on Fiverr — 50+ projects, 40+ clients, 12 countries
