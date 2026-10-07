@@ -1,137 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=Abdul%20Sami&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20·%20AI%20Agents%20·%20OSINT%20Systems%20·%20DevOps&descAlignY=58&descColor=8b949e" width="100%"/>
+# Abdul Sami
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=10M%2B+records%2Fmonth+in+production;12+AI+agents+·+15+MCP+servers+·+150%2B+tools;US+Treasury+·+UK+MoD+clients;Founder+%40+HinterBuild+·+Open+to+remote)](https://git.io/typing-svg)
+**Backend · AI Agents · OSINT Systems · DevOps**
 
-<br/>
+Production AI systems — not demos, not side projects.  
+Founder [@HinterBuild](https://hinterbuild.com) · NUST SE 2026 · Open to remote
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-sami-a48b78234)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abdulsami1211)
-[![Upwork](https://img.shields.io/badge/Upwork_Top_Rated_Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/muhammadabduls)
-[![HinterBuild](https://img.shields.io/badge/HinterBuild-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://hinterbuild.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@as1987137)
-[![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/crewqo)
+[LinkedIn](https://linkedin.com/in/abdul-sami-a48b78234) · [X](https://twitter.com/abdulsami1211) · [Upwork](https://www.upwork.com/freelancers/muhammadabduls) · [Medium](https://medium.com/@as1987137) · [Email](mailto:as1987137@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Projects
+## Projects
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <a href="https://intrace.ai"><img src="https://img.shields.io/badge/🔍_Intrace-AI_OSINT_Platform-0d6efd?style=for-the-badge"/></a>
-  <br/><sub>10M+ records/month · 150+ sources · K8s · US govt clients</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/Ignitic-AI/ignitic"><img src="https://img.shields.io/badge/🤖_Ignitic_AI-Ecommerce_Agents-e67e22?style=for-the-badge"/></a>
-  <br/><sub>12 agents · 15 MCP servers · 150+ tools · LangGraph</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/HinterBuild/cadensend"><img src="https://img.shields.io/badge/📧_Cadensend-AI_Email_Platform-27ae60?style=for-the-badge"/></a>
-  <br/><sub>RAG + Qdrant · LangGraph · Full observability</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <a href="https://hinterbuild.com/products/ocherfort"><img src="https://img.shields.io/badge/🛡️_Ocherfort-Go_Security_CLI-c0392b?style=for-the-badge"/></a>
-  <br/><sub>6 scanners · OWASP/NIST/CWE · Default-deny</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://luminaai.hinterbuild.com"><img src="https://img.shields.io/badge/📸_LuminaAI-AI_Photography-8e44ad?style=for-the-badge"/></a>
-  <br/><sub>151 users · 1,500+ generations · 45M tokens</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/AbdulSami455/psx-api"><img src="https://img.shields.io/badge/📈_PSX_API-Stock_Exchange-f39c12?style=for-the-badge"/></a>
-  <br/><sub>#1 across 1.5M Google searches · Open source</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <a href="https://www.producthunt.com/products/apigen"><img src="https://img.shields.io/badge/⚡_APIGen-AI_API_Generator-16a085?style=for-the-badge"/></a>
-  <br/><sub>Prompt/YAML → deployable API + SDKs</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/AbdulSami455/pakistan-agent-skills"><img src="https://img.shields.io/badge/🧠_PK_Agent_Skills-Pakistan_Data-2980b9?style=for-the-badge"/></a>
-  <br/><sub>Model-agnostic agent skills · Open source</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://crewqo.com"><img src="https://img.shields.io/badge/🏢_Crewqo-Team_OS_for_Agencies-7f8c8d?style=for-the-badge"/></a>
-  <br/><sub>Tasks · Payroll · Client Portal · AI agent</sub>
-</td>
-</tr>
-</table>
+### 🤖 AI Agents & Platforms
 
----
+**[Ignitic AI](https://github.com/Ignitic-AI/ignitic)** — Agentic platform for ecommerce  
+12 domain agents (Shopify, HubSpot, SEO, Analytics, Support) · 15 MCP servers · 150+ tools · LangGraph supervisor · Neo4j/Graphiti memory · Go backend, Python AI engine · SDKs in TS/Python/Go · Tested with AJ Samco Industries
 
-## 🛠️ Stack
+**[Cadensend](https://github.com/HinterBuild/cadensend)** — AI email course platform *(open source)*  
+Plans a full course from a topic · RAG over PDFs/docs/slides/web with per-lesson citations · Auditor rewrites lessons missing sources · 20 ready-made skills · LangGraph + Qdrant + full observability
 
-<div align="center">
+**[Pakistan Agent Skills](https://github.com/AbdulSami455/pakistan-agent-skills)** — 147 open-source agent skills, 13 domains  
+Model-agnostic (Claude, OpenAI, Hermes) · Maps to primary sources: SBP, FBR, SECP, PBS, NEPRA, HEC · Preserves dates, units, context
 
-**Languages**
+**[LuminaAI](https://luminaai.hinterbuild.com)** — AI product photography platform  
+6 modules: Lab, Listing Assistant, Creative Agent, Design Studio, Ghost Shoot, Brand Control · Admin dashboard with plans, credits, analytics · 151 users · 1,500+ generations · 45M tokens
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**[APIGen](https://www.producthunt.com/products/apigen)** — Prompt/YAML → deployed API  
+AI-generated APIs from OpenAPI specs · Docker + Google Cloud Run auto-deploy · Multi-language SDK generation · Rate limiting · Prometheus + Grafana monitoring
 
-**AI · Agents · ML**
+### 🔍 OSINT & Intelligence
 
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-58A6FF?style=flat-square)
-![Agno](https://img.shields.io/badge/Agno-000000?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
-![LoRA/QLoRA](https://img.shields.io/badge/LoRA%2FQLoRA-FF4081?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square)
+**[Intrace](https://intrace.ai)** — AI OSINT platform *(founding engineer, 2.5 yrs)*  
+10M+ records/month across 150+ sources · Evidence boards expanding to 150+ entity types · Entity resolution: 35–50% dedup across 10+ identifier types · Sub-500ms graph ingestion via LoRA-distilled 7B models · 50K+ monitored entities · K8s in production
 
-**Vector & Graph DBs**
+### 🛡️ Security & Infrastructure
 
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4081?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+**[Ocherfort](https://hinterbuild.com/products/ocherfort)** — Local-first security CLI in Go  
+Orchestrates Gitleaks, Trivy, Semgrep, govulncheck, OSV-Scanner, Syft · Maps findings to OWASP/NIST/CWE · Default-deny tool allowlist · Deterministic ship/no-ship gates · Nothing leaves your machine
 
-**Infra · DevOps · Cloud**
+### 📊 Data & APIs
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+**[PSX API](https://github.com/AbdulSami455/psx-api)** — Pakistan's first open-source stock exchange API  
+#1 across 1.5M Google results · Go + AWS Lambda
 
-**Observability**
+**[NustDevs](https://github.com/AbdulSami455/Nust-devs)** — NUST developer index  
+Go + LangGraph + Qdrant
 
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square)
+**[FindIntrovs](https://github.com/AbdulSami455/Findintrovs-Golang-Neo4j)** — Interest-based matching on a property graph  
+Go + Neo4j · Typed relationships, graph traversal
 
-**Backend · Data**
+### 🧪 Applied AI
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+**Multimodal Knowledge Base Chatbot** — Document RAG + Website RAG + Image RAG (OCR)  
+LangChain · Tesseract · Ollama · ChromaDB · Fully local
 
-</div>
+**Bypass Genius** — AI text humanization platform  
+FastAPI · Claude API · JWT auth · AI-detection endpoint
+
+**Mental Health Chatbot** — Sentiment analysis, mood tracking, coping strategies  
+Ollama + Streamlit · Fully local
+
+### 🏢 SaaS
+
+**[Crewqo](https://crewqo.com)** — Team OS for agencies · [on Product Hunt](https://www.producthunt.com/products/crewqo)  
+Tasks, chat, docs, whiteboards · Attendance, payroll, payslips · Signed proposals, invoices (your own Stripe/PayPal) · Branded client portal · Performance Agent — output-based, no screen monitoring · Database-per-company · Files stay in your own Drive/OneDrive/Dropbox
 
 ---
 
-<div align="center">
+## Stack
 
-**50+ projects · 40+ clients · 12 countries · NUST 2026**  
-🐱 Launching [Crewqo](https://www.producthunt.com/products/crewqo) on Product Hunt — support welcome
+| | |
+|---|---|
+| **Languages** | Python · Go · TypeScript · C · C++ · SQL |
+| **AI & Agents** | LangGraph · LangChain · MCP · Agno · n8n · RAG · LoRA / QLoRA fine-tuning · LLM distillation · Prompt engineering · Claude API · OpenAI API · Gemini · Ollama · OpenRouter · AWS Bedrock |
+| **Vector & Graph** | Neo4j · Graphiti · Qdrant · pgvector · FAISS · ChromaDB · Entity resolution · Multi-hop traversal |
+| **Backend** | FastAPI · Gin · GORM · Django · GraphQL · Pydantic · SQLAlchemy · Alembic · Taskiq · WebSockets |
+| **Data** | PostgreSQL · MongoDB · Redis · ClickHouse · Kafka · RabbitMQ |
+| **Cloud & DevOps** | Kubernetes · Docker · Terraform · AWS (EKS, ECS, Lambda, S3, RDS, SES, Beanstalk) · GCP (Cloud Run) · DigitalOcean · GitHub Actions · GitLab CI · Jenkins · Serverless · Nginx · Infisical |
+| **Observability** | OpenTelemetry · Prometheus · Grafana · Loki · Distributed tracing |
+| **Security** | DevSecOps · Gitleaks · Trivy · Semgrep · OWASP / NIST / CWE · AES-256 · JWT |
+| **MLOps** | Modal GPU serving · Whisper · Teacher-student distillation · Constrained JSON decoding |
+| **Other** | Stripe · Selenium · Tesseract OCR · Streamlit · Next.js · React |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+---
 
-</div>
+## Highlights
+
+- 🏆 **Top Rated Plus** on [Upwork](https://www.upwork.com/freelancers/muhammadabduls) — 100% JSS · 50+ projects · 40+ clients · 12 countries
+- 🔭 **Founding engineer** at a US OSINT startup serving government and intelligence clients
+- 🚀 **Founder** @ [HinterBuild](https://hinterbuild.com) — Crewqo, Cadensend, Ocherfort, LuminaAI
+- 🐱 **Launching** [Crewqo on Product Hunt](https://www.producthunt.com/products/crewqo) — support welcome
+
+## References
+
+> *"He will do the work of 6 people and not complain for a second."*  
+> — **Cole McLain**, Head of Data & Analytics @ Intrace
+
+> *"Comfortable being given difficult or loosely defined problems, figuring out what needs to be done, and following through... top tier technical talent."*  
+> — **Nicholas Van Landschoot**, Head of Investigative Tech @ Intrace
+
+> *"He understands the high standards required when building systems for regulated environments."*  
+> — **Christopher Fitzgerald**, Intrace (managed directly)
+
+More on [LinkedIn →](https://www.linkedin.com/in/abdul-sami-a48b78234/details/recommendations/)
