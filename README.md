@@ -16,7 +16,7 @@
 
 | Project | One-liner | Proof |
 |---|---|---|
-| 🔍 [Intrace](https://intrace.ai) | AI OSINT platform — founding engineer, govt & intel clients | 10M+ rec/mo · 150+ sources · 50K entities · K8s prod |
+| 🔍 [Intrace](https://intrace.ai) | AI OSINT platform — founding engineer, govt & intel clients | 150+ sources · 50K entities · K8s prod |
 | 🤖 [Ignitic AI](https://github.com/Ignitic-AI/ignitic) | Agentic ecommerce platform — Go + Python + LangGraph | 12 agents · 15 MCP servers · 150+ tools · 3 SDKs |
 | 📧 [Cadensend](https://github.com/HinterBuild/cadensend) | AI email courses with cited sources — open source | RAG + Qdrant · auditor agent · full observability |
 | 🛡️ [Ocherfort](https://hinterbuild.com/products/ocherfort) | Local-first security CLI in Go — nothing leaves your machine | 6 scanners · OWASP/NIST/CWE · CI ship-gates |
